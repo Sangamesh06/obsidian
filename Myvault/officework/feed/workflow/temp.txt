@@ -1,0 +1,6 @@
+https://feed.unbxd.io/api/{sitekey}/catalog/status
+
+hello {apikey}
+hello {customername}
+
+

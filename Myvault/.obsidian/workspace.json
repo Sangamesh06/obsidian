@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "85a7f023985dc2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff987e08f18083a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e346b8c85735ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "officework/analyticsproject/workflow/path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "469d36b97fa6caba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "officework/feed/feed-review/mapclub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b2f50a3f33ce593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "officework/feed/feed-review/mapclub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cd975163ee4dec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "59af4fe8baa21d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ceab14e59e9db4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1e17401dc367f0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "/s/sitekey/site",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "827111c1ce3c1e28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f2607a7fba3cba13",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd8f4a8ebd3e060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55509ebc78e06650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "officework/analyticsproject/workflow/path.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4a39b1fdcdd7cb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "officework/analyticsproject/workflow/path.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "433f2c3a4c772300",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3262a866bd99c429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "officework/analyticsproject/workflow/path.md"
+              }
+            }
+          },
+          {
+            "id": "bf4c5164c670636d",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6e346b8c85735ec1",
+  "lastOpenFiles": [
+    "personal/goals/career.md",
+    "officework/feed/feed-review/mapclub.md",
+    "2024-09-06.md",
+    "officework/git/analytics.md",
+    "tools/csvfilecommands.md",
+    "bahasa.md",
+    "officework/feed/feed-alerts/landmark.md",
+    "tools/jsoncommandtools.md",
+    "officework/feed/resources.md",
+    "officework/feed/workflow/solsjobsv3.md",
+    "officework/analyticsproject/opd/config.md",
+    "officework/analyticsproject/Integration raw.md",
+    "officework/analyticsproject/opd/basicinfo.md",
+    "officework/analyticsproject/wwg.md",
+    "officework/analyticsproject/workflow/path.md",
+    "officework/analyticsproject/workflow/basicinfo.md",
+    "sourcemeterial/feed-conversion.md",
+    "sourcemeterial/feed vedios.md",
+    "sourcemeterial/analytics integration.md",
+    "officework/analytics.md",
+    "officework/git/feed alerts.md",
+    "officework/git/customer.js.md",
+    "officework/analyticsproject/TataMotorsProd.md",
+    "officework/analyticsproject/random.md",
+    "officework/analyticsproject/puppy spot.md",
+    "officework/analyticsproject/puma.md",
+    "officework/analyticsproject/opd",
+    "Screenshot 2024-08-27 at 4.06.47 PM.png",
+    "tickets",
+    "officework/feed/argo-migration",
+    "Screenshot 2024-08-19 at 12.00.31 AM.png",
+    "Screenshot 2024-08-18 at 11.56.37 PM.png",
+    "Screenshot 2024-08-18 at 11.49.47 PM.png",
+    "Screenshot 2024-08-18 at 11.46.59 PM.png",
+    "Screenshot 2024-08-18 at 11.42.46 PM.png",
+    "officework/feed/workflow/faltu.txt",
+    "officework/feed/workflow/output.txt",
+    "officework/feed/workflow/replace_placeholders.py",
+    "officework/feed/workflow/temp.txt",
+    "officework/analyticsproject/persprog",
+    "Screenshot 2024-08-18 at 7.07.36 PM.png",
+    "Screenshot 2024-08-18 at 6.58.30 PM.png",
+    "Screenshot 2024-08-18 at 6.57.26 PM.png",
+    "Screenshot 2024-08-18 at 6.56.58 PM.png",
+    "officework/git",
+    "officework/feed/feed-alerts/persprog",
+    "learning/full_stack/fullstackarch.canvas",
+    "Untitled.canvas"
+  ]
+}

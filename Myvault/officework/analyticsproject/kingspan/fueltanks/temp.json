@@ -1,0 +1,13 @@
+<img src="/images/products/thumbs/5335_1319.jpg" class="basketimage" alt="Brass Gate Valve">
+
+const pidlast = src.split("/").pop();
+const pid = pidlast.split("_")[0]; 
+return pid;
+
+getPidFromCB: function (pidString) {
+	const pidlast = src.split("/").pop();
+	const pid = pidlast.split("_")[0]; 
+	return pid;
+ }
+
+cartItemWrapper: "/#main-body  form[id="basket"]  .odd/",
