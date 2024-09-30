@@ -30,6 +30,20 @@ sftp details
 ```
 
 
+
+for prod site
+
+```
+"shopperstop": {
+    "cron_workflows": {
+        "shopperstop-prod": {
+            "sitekey": "ss-unbxd-aapac-shoppersstop-prod50901711607748",
+            "path": "/prod/full/timestamp.json"
+        }
+    }
+}
+```
+
 hello
 ```
 camper
@@ -80,6 +94,7 @@ CUSTOMERFOLDERNAME` is the folder name from step 2
      remove part until you remove files from url
 	     before : sftp://shopperstop@sftp.unbxdapi.com/files/dev/full/timestamp.json
 	     after : /dev/full/timestamp.json
+	     sftp://shopperstop@sftp.unbxdapi.com/files/prod/full/timestamp.json
 	     
 5) After updating the `paths.json` file, run the following command to restart the sentinel service:
 ```
@@ -125,3 +140,6 @@ then it is successful
 
 
 
+```
+https://feed-apac.unbxd.io/api/ss-unbxd-aapac-dev-mapclub-en56931721299790/catalog/status
+```

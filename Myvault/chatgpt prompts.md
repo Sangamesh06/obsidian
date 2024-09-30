@@ -16,3 +16,11 @@ to work on the
 	 swatch image url
 	 swatch product image 
 git -c credential.helper= -c core.quotepath=false -c log.showSignature=false -c core.commentChar= rebase HEAD extra
+
+
+
+```
+Chatgpt
+Code extension
+explain the code along with proper examples and for all the builtin function used explain function and how it is used and example for each
+```

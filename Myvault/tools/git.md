@@ -35,7 +35,7 @@ ssh-add ~/.ssh/id_ed25519_personal2
 
         
         This command adds your personal SSH key to the SSH agent. Any operations in repositories configured to use this key will use it for authentication.
-        
+        sho[]
 
 ### Key Management
 

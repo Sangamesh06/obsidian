@@ -179,3 +179,13 @@ const FuelTankShopStage = {
   },  
 };
 ```
+
+
+```
+{
+  "siteName": "ss-unbxd-auk-dev-Fueltankshop53931716296619",
+  "sdkVersion": "v6.3.1"
+}
+
+```
+

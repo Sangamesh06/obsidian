@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/git.md",
+                "file": "officework/feed/setupfeedwatcher.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74cb62b53c605bee",
+            "id": "b70b4928f624d489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "officework/feed/feed-review/mapclub.md",
+                "file": "officework/feed/getsitekeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/laptopchange.md",
+                "file": "tools/git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autosuggest",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/git.md",
+                "file": "officework/feed/getsitekeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/git.md",
+                "file": "officework/feed/getsitekeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/git.md"
+                "file": "officework/feed/getsitekeys.md"
               }
             }
           },
@@ -188,35 +190,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a648cc7c9dd2d7b3",
+  "active": "b70b4928f624d489",
   "lastOpenFiles": [
-    "tools/nvim.md",
+    "tools/git.md",
+    "officework/gits.md",
+    "2024-10-01.md",
+    "git/miscallaneous.md",
+    "officework/analyticsproject/kingspan/fueltanks/config.md",
+    "git",
+    "officework/uiissue/forestfair.md",
+    "chatgpt prompts.md",
+    "officework/uiissue",
+    "tools/mac.md",
+    "officework/feed/getsitekeys.md",
+    "Screenshot 2024-06-10 at 10.17.09 PM.png",
+    "officework/recordings.md",
     "officework/feed/feed-review/mapclub.md",
     "personal/laptopchange.md",
+    "officework/feed/feedreview/dmart.md",
+    "officework/feed/shopperstop.md",
+    "officework/feed/setupfeedwatcher.md",
+    "officework/feed/autosuggest.md",
+    "officework/analyticsproject/shoplc/doubts.md",
+    "tools/nvim.md",
     "officework/analyticsproject/workflow/path.md",
     "officework/git/feed alerts.md",
-    "tools/git.md",
     "officework/git/analytics.md",
     "officework/analyticsproject/shoplc/shoplcinfo.md",
     "officework/analyticsproject/shoplc/basicinfo.md",
     "officework/analyticsproject/shoplc/Integrationraw2.md",
-    "officework/feed/feedreview/dmart.md",
     "Screenshot 2024-09-27 at 3.32.01 PM.png",
     "officework/analyticsproject/opd/basicinfo.md",
-    "officework/feed/autosuggest.md",
     "officework/analyticsproject/opd/config.md",
-    "roughnotes/rough.md",
-    "officework/feed/workflow/solsjobsv3.md",
-    "officework/feed/workflow/info.md",
-    "officework/analyticsproject/shoplc/doubts.md",
-    "officework/feed/setupfeedwatcher.md",
-    "officework/feed/sftpaccountcreation.md",
-    "search browse.md",
-    "2024-09-24.md",
-    "officework/feed/camper.md",
-    "officework/uiissues/workflow.md",
-    "officework/analyticsproject/workflow/Integrationraw.md",
-    "officework/analyticsproject/kingspan/fueltanks/info.md",
     "officework/analyticsproject/shyaway",
     "officework/feed/feedreview",
     "personal/movie.html",
@@ -225,8 +230,6 @@
     "officework/persprog/output.txt",
     "officework/persprog/input.txt",
     "officework/persprog/replaceplaceholders.py",
-    "officework/persprog/basicinfo.py",
-    "officework/persprog/findregionprogram.py",
     "Screenshot 2024-09-15 at 6.45.20 PM 1.png",
     "Screenshot 2024-09-15 at 6.45.20 PM.png",
     "Screenshot 2024-09-15 at 6.37.23 PM.png",
@@ -235,7 +238,6 @@
     "Screenshot 2024-08-18 at 11.56.37 PM.png",
     "Screenshot 2024-08-18 at 11.49.47 PM.png",
     "Screenshot 2024-08-18 at 11.46.59 PM.png",
-    "Screenshot 2024-08-18 at 11.42.46 PM.png",
     "learning/full_stack/fullstackarch.canvas",
     "Untitled.canvas"
   ]
