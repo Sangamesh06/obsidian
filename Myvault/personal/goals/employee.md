@@ -16,3 +16,34 @@ understand all diffrent products of unbxd
 
 solsjobsv3
 
+guide to work in a company in 2024
+arbitrage :  we know what others dont know
+
+trust
+
+
+table change
+
+
+real estate companies website
+in the short term meritocrosy works but in long term loyaloty works
+
+knowledge of company situation is valuable
+
+good founders value humility(inaccurate assesment)
+
+
+
+staying in the company for long periods is a hidden eleverage
+
+
+
+
+
+
+
+
+
+being able to absorb and take responsibility matters
+
+

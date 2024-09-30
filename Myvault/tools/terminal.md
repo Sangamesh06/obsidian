@@ -19,3 +19,21 @@ If you want to clear the entire terminal screen, use Cmd + K. This will clear th
 6. Clear Entire Screen (clear)
 You can also just type clear to clear the terminal screen completely.
 
+For .zip Files:
+On Linux/macOS:
+You can use the unzip command.
+
+Unzip a file into the current directory:
+```
+unzip filename.zip
+```
+
+Unzip a file into a specific directory:
+```
+unzip filename.zip -d /path/to/destination
+
+```
+kingspan
+opd 
+furniture fair security flaw
+

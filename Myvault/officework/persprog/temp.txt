@@ -1,0 +1,59 @@
+  ss-unbxd-aapac-prod-pak29411712129456
+  : wingman-argocd.unbxd.io:ss-dev
+  ss-unbxd-prod-ID-unilever-Bahasa29411703238089
+  : wingman-argocd.unbxd.io:ss-dev
+  ss-unbxd-prod-th-thailand13731636957583
+  : wingman-argocd.unbxd.io:ss-dev
+  prod-ump13731617272191
+  : wingman-argocd.unbxd.io:ss-dev
+  ss-unbxd-aapac-prod-bz29411712129281
+  : feed-anz.unbxd.io:ap-southeast-2
+  ss-unbxd-prod-eng-thailand13731636957760
+  : feed-anz.unbxd.io:ap-southeast-2
+  ss-unbxd-prod-ID-unilever13731696257710
+  : feed-uk.unbxd.io:eu-west-2
+
+'https://wingman-argocd.unbxd.io/api/ss-unbxd-aapac-prod-pak29411712129456/catalog/status', 
+'https://wingman-argocd.unbxd.io/api/ss-unbxd-prod-ID-unilever-Bahasa29411703238089/catalog/status',
+'https://wingman-argocd.unbxd.io/api/ss-unbxd-prod-th-thailand13731636957583/catalog/status', 
+'https://wingman-argocd.unbxd.io/api/prod-ump13731617272191/catalog/status', 'https://feed-anz.unbxd.io/api/ss-unbxd-aapac-prod-bz29411712129281/catalog/status',
+'https://feed-anz.unbxd.io/api/ss-unbxd-prod-eng-thailand13731636957760/catalog/status',
+'https://feed-uk.unbxd.io/api/ss-unbxd-prod-ID-unilever13731696257710/catalog/status'
+
+
+https://feed-anz.unbxd.io/api/ss-unbxd-prod-eng-thailand13731636957760/catalog/status
+//https://feed-uk.unbxd.io/api/prod-ump13731617272191/catalog/status
+//https://feed-uk.unbxd.io/api/ss-unbxd-prod-ID-unilever13731696257710/catalog/status
+//https://feed-anz.unbxd.io/api/ss-unbxd-prod-ID-unilever-Bahasa29411703238089/catalog/status
+//https://feed-anz.unbxd.io/api/ss-unbxd-prod-th-thailand13731636957583/catalog/status
+//https://feed-anz.unbxd.io/api/prod-ump13731617272191/catalog/status
+//https://feed-anz.unbxd.io/api/prod-ph13731629461969/catalog/status
+//https://feed-uk.unbxd.io/api/prod-ph13731629461969/catalog/status
+
+required
+ss-unbxd-aapac-prod-pak29411712129456
+ss-unbxd-prod-ID-unilever-Bahasa29411703238089  
+ss-unbxd-prod-th-thailand137316369575  
+ss-unbxd-aapac-prod-bz29411712129281  
+ss-unbxd-prod-eng-thailand13731636957760 
+prod-ump13731617272191
+ss-unbxd-prod-ID-unilever13731696257710
+
+found out
+ss-unbxd-prod-eng-thailand13731636957760
+prod-ump13731617272191
+ss-unbxd-prod-ID-unilever13731696257710
+ss-unbxd-prod-ID-unilever-Bahasa29411703238089
+ss-unbxd-prod-th-thailand13731636957583
+prod-ump13731617272191
+prod-ph13731629461969
+prod-ph13731629461969
+
+https://feed.unbxd.io/api/ss-unbxd-aapac-prod-pak2941171212945683/catalog/status
+https://feed.unbxd.io/api/ss-unbxd-prod-ID-unilever-Bahasa2941170323808983/catalog/status
+https://feed.unbxd.io/api/ss-unbxd-prod-th-thailand13731636957583/catalog/status
+https://feed.unbxd.io/api/ss-unbxd-aapac-prod-bz2941171212928183/catalog/status
+https://feed.unbxd.io/api/ss-unbxd-prod-eng-thailand1373163695776083/catalog/status
+https://feed.unbxd.io/api/prod-ump1373161727219183/catalog/status
+https://feed.unbxd.io/api/ss-unbxd-prod-ID-unilever1373169625771083/catalog/status
+https://feed.unbxd.io/api/prod-ph1373162946196983/catalog/status

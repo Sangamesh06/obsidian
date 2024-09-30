@@ -10,8 +10,11 @@ git push  -f origin {branchname}
 BASE_DIR = f'Users/ebs/{CUSTOMER_NAME}/{SITE_KEY}/full/' if not os.path.exists(f'Users/ebs/{CUSTOMER_NAME}/{SITE_KEY}/full'): os.makedirs(f'Users/ebs/{CUSTOMER_NAME}/{SITE_KEY}/full')
 
 github url : https://github.com/unbxd/solution-jobs-v2/pulls/sangamesh-somashetti-unbxd
+
 can anyone please review and merge this pr
-{prlink}
+https://github.com/unbxd/solution-jobs-v2/pull/1597
+@Tushar Gupta
+
 
 github. commit messages
 

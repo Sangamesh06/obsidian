@@ -58,13 +58,13 @@ link for bigquery prod site : "http://aggregator.unbxdapi.com/analytics-aggregat
 prodmetadata.json file
 {
   "siteName": "sitekeyv2",
-  "sdkVersion": "v6.2.5"
+  "sdkVersion": "v6.3.1"
 }
 
 stagemetadata.json file
 {
   "siteName": "sitekeyv1",
-  "sdkVersion": "v6.2.5"
+  "sdkVersion": "v6.3.1"
 }
 
 one liner script for stage and prod site
@@ -87,4 +87,3 @@ commands to replace sitekey apikey siteurl produrl
 %s/siteurl/prodsiturl/g
 
 
-const element = document.querySelector('.p-minicart-scroll-wrapper .p-product-info');

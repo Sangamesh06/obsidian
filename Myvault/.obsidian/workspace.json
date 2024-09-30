@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff987e08f18083a",
+        "id": "a98f26d2fae100e6",
         "type": "tabs",
         "children": [
           {
-            "id": "6e346b8c85735ec1",
+            "id": "a648cc7c9dd2d7b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "officework/analyticsproject/workflow/path.md",
+                "file": "tools/git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "469d36b97fa6caba",
+            "id": "74cb62b53c605bee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3b2f50a3f33ce593",
+            "id": "00e4e2d402ffe902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "officework/feed/feed-review/mapclub.md",
+                "file": "personal/laptopchange.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/s/sitekey/site",
+                "query": "autosuggest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2607a7fba3cba13",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "officework/analyticsproject/workflow/path.md",
+                "file": "tools/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "officework/analyticsproject/workflow/path.md",
+                "file": "tools/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "officework/analyticsproject/workflow/path.md"
+                "file": "tools/git.md"
               }
             }
           },
@@ -158,6 +159,14 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "6af0f08e992bc41a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -179,54 +188,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e346b8c85735ec1",
+  "active": "a648cc7c9dd2d7b3",
   "lastOpenFiles": [
-    "personal/goals/career.md",
+    "tools/nvim.md",
     "officework/feed/feed-review/mapclub.md",
-    "2024-09-06.md",
-    "officework/git/analytics.md",
-    "tools/csvfilecommands.md",
-    "bahasa.md",
-    "officework/feed/feed-alerts/landmark.md",
-    "tools/jsoncommandtools.md",
-    "officework/feed/resources.md",
-    "officework/feed/workflow/solsjobsv3.md",
-    "officework/analyticsproject/opd/config.md",
-    "officework/analyticsproject/Integration raw.md",
-    "officework/analyticsproject/opd/basicinfo.md",
-    "officework/analyticsproject/wwg.md",
+    "personal/laptopchange.md",
     "officework/analyticsproject/workflow/path.md",
-    "officework/analyticsproject/workflow/basicinfo.md",
-    "sourcemeterial/feed-conversion.md",
-    "sourcemeterial/feed vedios.md",
-    "sourcemeterial/analytics integration.md",
-    "officework/analytics.md",
     "officework/git/feed alerts.md",
-    "officework/git/customer.js.md",
-    "officework/analyticsproject/TataMotorsProd.md",
-    "officework/analyticsproject/random.md",
-    "officework/analyticsproject/puppy spot.md",
-    "officework/analyticsproject/puma.md",
-    "officework/analyticsproject/opd",
+    "tools/git.md",
+    "officework/git/analytics.md",
+    "officework/analyticsproject/shoplc/shoplcinfo.md",
+    "officework/analyticsproject/shoplc/basicinfo.md",
+    "officework/analyticsproject/shoplc/Integrationraw2.md",
+    "officework/feed/feedreview/dmart.md",
+    "Screenshot 2024-09-27 at 3.32.01 PM.png",
+    "officework/analyticsproject/opd/basicinfo.md",
+    "officework/feed/autosuggest.md",
+    "officework/analyticsproject/opd/config.md",
+    "roughnotes/rough.md",
+    "officework/feed/workflow/solsjobsv3.md",
+    "officework/feed/workflow/info.md",
+    "officework/analyticsproject/shoplc/doubts.md",
+    "officework/feed/setupfeedwatcher.md",
+    "officework/feed/sftpaccountcreation.md",
+    "search browse.md",
+    "2024-09-24.md",
+    "officework/feed/camper.md",
+    "officework/uiissues/workflow.md",
+    "officework/analyticsproject/workflow/Integrationraw.md",
+    "officework/analyticsproject/kingspan/fueltanks/info.md",
+    "officework/analyticsproject/shyaway",
+    "officework/feed/feedreview",
+    "personal/movie.html",
+    "shopperstop.json",
+    "officework/analyticsproject/shoplc/Integrationraw2.md~",
+    "officework/persprog/output.txt",
+    "officework/persprog/input.txt",
+    "officework/persprog/replaceplaceholders.py",
+    "officework/persprog/basicinfo.py",
+    "officework/persprog/findregionprogram.py",
+    "Screenshot 2024-09-15 at 6.45.20 PM 1.png",
+    "Screenshot 2024-09-15 at 6.45.20 PM.png",
+    "Screenshot 2024-09-15 at 6.37.23 PM.png",
     "Screenshot 2024-08-27 at 4.06.47 PM.png",
-    "tickets",
-    "officework/feed/argo-migration",
     "Screenshot 2024-08-19 at 12.00.31 AM.png",
     "Screenshot 2024-08-18 at 11.56.37 PM.png",
     "Screenshot 2024-08-18 at 11.49.47 PM.png",
     "Screenshot 2024-08-18 at 11.46.59 PM.png",
     "Screenshot 2024-08-18 at 11.42.46 PM.png",
-    "officework/feed/workflow/faltu.txt",
-    "officework/feed/workflow/output.txt",
-    "officework/feed/workflow/replace_placeholders.py",
-    "officework/feed/workflow/temp.txt",
-    "officework/analyticsproject/persprog",
-    "Screenshot 2024-08-18 at 7.07.36 PM.png",
-    "Screenshot 2024-08-18 at 6.58.30 PM.png",
-    "Screenshot 2024-08-18 at 6.57.26 PM.png",
-    "Screenshot 2024-08-18 at 6.56.58 PM.png",
-    "officework/git",
-    "officework/feed/feed-alerts/persprog",
     "learning/full_stack/fullstackarch.canvas",
     "Untitled.canvas"
   ]

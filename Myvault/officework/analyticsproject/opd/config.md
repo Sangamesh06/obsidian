@@ -1,6 +1,4 @@
-
-```
-const websitestage = {
+const opdstage = {
   search: {
     inputBox: ".primary-header #search #txtSearchNav",
     queryBtn: ".primary-header #search #btnSearchNav",
@@ -64,122 +62,82 @@ autosuggest:[
 ]
   productClickGrid: {
     productElemWrapper: ".prods-list .product-list-items-allviews .product-list-item",
-    excludeSelectors: [".prods-list .product-list-items-allviews .product-list-item .btn-add-to-cart", "", "", ""],
-    // productElemWrapper: "[data-unxItem='product']", //for unbxd sdk customer
-    pidSelector: "",
-    productPidAttr: "",
-    // productPidAttr: "data-unxId",  //for unbxd sdk customer
-    qtySelector: "",
-    qtyPlusSelector: "",
-    qtyMinusSelector: "",
+    excludeSelectors: [".prods-list .product-list-items-allviews .product-list-item .btn-add-to-cart", ".prods-list .product-list-items-allviews .product-list-item  .qty", ".prods-list .product-list-items-allviews .product-list-item  .btn-qty-up", ".prods-list .product-list-items-allviews .product-list-item .btn-qty-down",".prods-list .product-list-items-allviews .product-list-item .prodcompare"],
+    productPidAttr: "data-uniqueid",
+    qtySelector: ".price-etc .add-to-ord .qty",
+    qtyPlusSelector: ".price-etc .add-to-ord .btn-qty-up",
+    qtyMinusSelector: ".price-etc .add-to-ord .btn-qty-down",
     qtyDelay: 2000, // for 2sec
     source: "PRODUCT_CLICK_GRID"
   },
   addToCartFromSRP: {
-    addToCartBtnSelector: "",
-    // addToCartBtnSelector: "[data-unxCartBtn='addToCart']", //for unbxd sdk customer
+    addToCartBtnSelector: "#simplemodal-container #simplemodal-data .btn,.price-etc .add-to-ord .btn-add-to-cart",
     source: "ADD_TO_CART_SRP",
   },
   addToCartFromPDP: {
-    addToCartBtnSelector: "",
-    pidSelector: "",
-    productPidAttr: "",
-    qtySelector: "",
-    variant: false,
-    vidSelector: "",
-    productVidAttr: "",
+    addToCartBtnSelector: "#simplemodal-data .btn",
+    pidSelector: ".product-top .codes-etc .code",
+    productPidAttr: "data-uniqueid",
+    qtySelector: ".product-top .product-pricing .add-to-ord .qty",
     source: "ADD_TO_CART_PDP",
   },
   addToCartFromCartPage: {
-    cartItemWrapper: "",
-    pidSelector: "",
-    productPidAttr: "",
-    qtySelector: "[data-unxQty='qty']", // SDK integration customer
-    // qtySelector: "", // SDK integration customer (original value removed)
-    qtyPlusSelector: "",
-    qtyPlusSelector: "[data-unxQtyPlus='qtyPlus']", // SDK customer
-    qtyMinusSelector: "",
-    qtyMinusSelector: "[data-unxQtyMinus='qtyMinus']", // SDK customer
-    qtyDelay: "", // for 2sec
-    variant: "",
-    vidSelector: "",
-    productVidAttr: "",
+    cartItemWrapper: ".cart-table .products_tr",
+    pidSelector: ".cart-table .products_tr .c_Code a",
+    productPidAttr: "data-uniqueid",
+    qtySelector: ".cart-table .products_tr .c_Qty .txtbox1",
+    qtyDelay: 2000, // for 2sec
     source: "ADD_TO_CART_FROM_CART_PAGE",
-  },
-  orderFromCheckoutPage: {
-    orderItemWrapper: "",
-    buyButtonSelector: "",
-    pidSelector: "",
-    productPidAttr: "",
-    qtySelector: "",
-    qtyPlusSelector: "",
-    qtyMinusSelector: "",
-    qtyDelay: "2000", // for 2sec
-    priceSelector: "",
-    productPriceAttr: "",
-    variant: "",
-    vidSelector: "",
-    productVidAttr: "",
-    source: "ORDER_FROM_CHECKOUT",
   },
   pageView: {
     delay: "1500",
     events: {
       home: {
         uniqueSelectors: {
-          selectors: [],
+          selectors: ['#myBody.homepage .home-banner'],
         },
         urlIdentifiers: {
-          urls: [],
-          exactMatch: "",
-        },
-      },
-      search: {
-        uniqueSelectors: {
-          selectors: [],
-        },
-        urlIdentifiers: {
-          urls: [],
-          exactMatch: "",
+          urls: ["https://advance.opd.co.nz/"],
+          exactMatch: true,
         },
       },
       category: {
         uniqueSelectors: {
-          selectors: [],
+          selectors: ['.container [class*="cat"] .prods-list'],
         },
         urlIdentifiers: {
-          urls: [],
-          exactMatch: "",
+          urls: ["https://advance.opd.co.nz/products/"],
+          exactMatch: false,
+        },
+      },
+      search: {
+        uniqueSelectors: {
+          selectors: ['.container .searchresults .prods-list'],
+        },
+        urlIdentifiers: {
+          urls: ["https://advance.opd.co.nz/products?search"],
+          exactMatch: false,
         },
       },
       productDisplay: {
         uniqueSelectors: {
-          selectors: [],
+          selectors: ['[class*="productdetail"]#myBody'],
         },
         urlIdentifiers: {
-          urls: [],
-          exactMatch: "",
+          urls: [".container .productdetail .product-top"],
+          exactMatch: false,
         },
       },
       cart: {
         uniqueSelectors: {
-          selectors: [],
+          selectors: ['.shoppingcart .cart-table .cart-table'],
         },
         urlIdentifiers: {
-          urls: [],
-          exactMatch: "",
-        },
-      },
-      order: {
-        uniqueSelectors: {
-          selectors: [],
-        },
-        urlIdentifiers: {
-          urls: [],
+          urls: ["https://advance.opd.co.nz/cart"],
           exactMatch: "",
         },
       },
     },
   },
 };
-```
+

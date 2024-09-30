@@ -29,7 +29,7 @@ ssh-add ~/.ssh/id_rsa
         
     - **For Personal Repository:**
 ```
-ssh-add ~/.ssh/id_ed25519_personal
+ssh-add ~/.ssh/id_ed25519_personal2
 
 ```
 
@@ -70,7 +70,7 @@ ssh-add -l
 
 ```
 ssh-add -d ~/.ssh/id_rsa   # Remove company key
-ssh-add ~/.ssh/id_ed25519_personal  # Add personal key
+ssh-add ~/.ssh/id_ed25519_personal2  # Add personal key
 
 ```
         

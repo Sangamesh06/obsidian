@@ -50,7 +50,7 @@ git checkout -b {branchname}
 
 create virtual enviornment
     python3 -m venv venv
-    source venv/bin/activate 
+    - source venv/bin/activate 
 
 install dependencies
      pip install -r requirements.txt
@@ -166,9 +166,8 @@ site to check status
 how to schedule job using solsjobsv3
 
 open v3 repo
-gfu
-gmu
-gpom
+
+gcm && gfu && gmu && gpom
 git checkout -b branchname
 create a virtual env
 cd src/feed-conversion
@@ -187,6 +186,7 @@ sftp_username : sftp username
 sftp_password  : password
 filepath : file path (open filezilla and use credentaials to find file path and copy an dpaste the same here)
 env : (stage , dev , prod)
+example : files/dev/filename(the path of the file in filezilla)
 file url : (if there is no file we are getting from url then make it as NA)
 after this a folder is created with customer name
 
@@ -322,3 +322,25 @@ https://github.com/unbxd/solution-jobs-v2/blob/0e9135364c0b31f4aba42180afb98ba2b
 [src/kits/argo/cron_workflow/ss-unbxd-gcp-kits-com-stage16621684171061_full.yml](https://github.com/unbxd/solution-jobs-v2/pull/1562/files#diff-15a1ccbc20867e915ed6ef9a13420e43e15d958d017757b01173fb44e2b47854 "src/kits/argo/cron_workflow/ss-unbxd-gcp-kits-com-stage16621684171061_full.yml")
 [src/kits/argo/cron_workflow/ss-unbxd-gcp-opticontacts-stage16621696961246_full.yml](https://github.com/unbxd/solution-jobs-v2/pull/1562/files#diff-5d664e05aacfbc29b0d1e12a827339707de369e67eea2a9a07c5dc3810b3ba9e "src/kits/argo/cron_workflow/ss-unbxd-gcp-opticontacts-stage16621696961246_full.yml")
 
+https://search.unbxd.io/864d1797bfd230ef72d5cfdde5868364/ss-unbxd-gcp-kits-com-stage16621684171061/search?q=*&filter=accept_high_rx:1 OR smart_glasses:1 OR accept_progressive:1 OR accept_light_transition:1&promotion=false&fields=accept*, smart*, features*
+
+
+https://search.unbxd.io/864d1797bfd230ef72d5cfdde5868364/ss-unbxd-gcp-kits-com-stage16621684171061/search?q=*&filter=accept_high_rx:1 OR smart_glasses:1 OR accept_progressive:1 OR accept_light_transition:1&promotion=false&fields=accept*, smart*, features*
+
+
+
+sftp step and url step
+- name: feed_sftp_path  
+  value: /files/English/Dev/UNBXD_en_US.csv(change file name)
+url path
+
+in parameter of processing step we need to cchange this
+- name: github_config_relative_path  
+  value: config/mapclub_en_prod.yml
+
+contaiener always put new version
+container:  
+  name: mapclub-en-prod-full  
+  image: 012629307706.dkr.ecr.us-east-1.amazonaws.com/feed-conversion:v1.9.4
+
+there 

@@ -1,0 +1,121 @@
+
+{
+  "site_key": "ss-unbxd-aapac-prod-pak29411712129456",
+  "lookback_period_minutes": 1470,
+  "region": "us-east-1",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},
+{
+  "site_key": "ss-unbxd-prod-ID-unilever-Bahasa29411703238089",
+  "lookback_period_minutes": 1470,
+  "region": "ap-southeast-2",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},
+{
+  "site_key": "ss-unbxd-prod-th-thailand13731636957583",
+  "lookback_period_minutes": 1470,
+  "region": "ap-southeast-2",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},
+{
+  "site_key": "prod-ump13731617272191",
+  "lookback_period_minutes": 1470,
+  "region": "eu-west-2",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},
+{
+  "site_key": "ss-unbxd-aapac-prod-bz29411712129281",
+  "lookback_period_minutes": 1470,
+  "region": "ap-southeast-2",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},
+{
+  "site_key": "ss-unbxd-prod-eng-thailand13731636957760",
+  "lookback_period_minutes": 1470,
+  "region": "ap-southeast-2",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},
+{
+  "site_key": "ss-unbxd-prod-ID-unilever13731696257710",
+  "lookback_period_minutes": 1470,
+  "region": "eu-west-2",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+}
+{
+  "site_key": "prod-ph13731629461969",
+  "lookback_period_minutes": 1470,
+  "region": "us-east-1",
+  "additional_email_id": [
+    "pranav.mohanpurkar@unilever.com",
+    "anurag.goenka@unilever.com",
+    "murali.mohan.chinni@accenture.com",
+    "sathiya.subramaniam@accenture.com",
+    "pradeep.kishan@accenture.com",
+    "tushar.kailas.patil@accenture.com",
+    "sakshi.k.verma@accenture.com",
+    "pawan.bw.kumar@accenture.com"
+  ]
+},

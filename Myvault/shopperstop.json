@@ -1,0 +1,21 @@
+"shopperstop": {
+        "cron_workflows": {
+            "ARGOWORKFLOWNAME1": {
+                "sitekey": "SITEKEY1",
+                "path": "TIMESTAMP_FILE_PATH1"
+            },
+
+        }
+    }
+
+
+
+
+"shopperstop": {
+        "cron_workflows": {
+            "ARGOWORKFLOWNAME1": {
+                "sitekey": "SITEKEY1",
+                "path": "TIMESTAMP_FILE_PATH1"
+            }
+        }
+    }

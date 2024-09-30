@@ -66,10 +66,10 @@ to exit the same simply type q
 
 
 
-
-
-
-
-
-
-
+alias 1='open -a warp'
+alias 2='open -a "CopyClip"'
+alias 3='open -a "Google chrome"'
+alias 4='open -a "Rectangle.app"'
+alias 5='open -a "obsidian"'
+alias 6='open -a "PyCharm CE"'
+open -a 'finder
