@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "officework/feed/setupfeedwatcher.md",
+                "file": "officework/git/feed alerts.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "officework/feed/getsitekeys.md",
+                "file": "tools/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/git.md",
+                "file": "officework/feed/workflow/solsjobsv3.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "apple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2607a7fba3cba13",
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "officework/feed/getsitekeys.md",
+                "file": "tools/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "officework/feed/getsitekeys.md",
+                "file": "tools/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "officework/feed/getsitekeys.md"
+                "file": "tools/git.md"
               }
             }
           },
@@ -192,52 +190,51 @@
   },
   "active": "b70b4928f624d489",
   "lastOpenFiles": [
-    "tools/git.md",
-    "officework/gits.md",
-    "2024-10-01.md",
-    "git/miscallaneous.md",
-    "officework/analyticsproject/kingspan/fueltanks/config.md",
-    "git",
-    "officework/uiissue/forestfair.md",
-    "chatgpt prompts.md",
-    "officework/uiissue",
-    "tools/mac.md",
-    "officework/feed/getsitekeys.md",
-    "Screenshot 2024-06-10 at 10.17.09 PM.png",
-    "officework/recordings.md",
-    "officework/feed/feed-review/mapclub.md",
-    "personal/laptopchange.md",
     "officework/feed/feedreview/dmart.md",
-    "officework/feed/shopperstop.md",
-    "officework/feed/setupfeedwatcher.md",
-    "officework/feed/autosuggest.md",
-    "officework/analyticsproject/shoplc/doubts.md",
-    "tools/nvim.md",
-    "officework/analyticsproject/workflow/path.md",
+    "Screenshot 2024-10-04 at 11.43.20 AM 1.png",
+    "Screenshot 2024-10-04 at 11.43.20 AM.png",
     "officework/git/feed alerts.md",
-    "officework/git/analytics.md",
-    "officework/analyticsproject/shoplc/shoplcinfo.md",
-    "officework/analyticsproject/shoplc/basicinfo.md",
-    "officework/analyticsproject/shoplc/Integrationraw2.md",
+    "officework/analyticsproject/sheelen/sheelenbinfo.md",
+    "officework/feed/feed-review/mapclub.md",
+    "officework/feed/workflow/solsjobsv3.md",
+    "officework/analyticsproject/sheelar/sheelarbinfo.md",
+    "officework/analyticsproject/shyaway/config.md",
+    "tools/Pycharm.md",
+    "tools/git.md",
+    "officework/analyticsproject/workflow/steps.md",
+    "officework/analyticsproject/sheelar",
+    "officework/analyticsproject/workflow/basicinfo.md",
+    "officework/analyticsproject/workflow/Integrationraw.md",
+    "officework/analyticsproject/starfurniture/starfurnitureinfo.md",
+    "officework/analyticsproject/starfurniture/customernamebinfo.md",
+    "officework/analyticsproject/sheelen",
+    "officework/analyticsproject/fast integration.md",
+    "officework/uiissues/forestfair.md",
+    "officework/analytics.md",
+    "officework/feed/createanewargo workflowfornew customer.md",
+    "prompts.md",
+    "officework/feed/setupfeedwatcher.md",
+    "personal/details.md",
+    "officework/analyticsproject/electroplanet/config.json.md",
+    "personal/goals/personal.md",
+    "personal/laptopchange.md",
+    "tools/warp.md",
+    "git",
+    "officework/uiissue",
+    "Screenshot 2024-06-10 at 10.17.09 PM.png",
     "Screenshot 2024-09-27 at 3.32.01 PM.png",
-    "officework/analyticsproject/opd/basicinfo.md",
-    "officework/analyticsproject/opd/config.md",
     "officework/analyticsproject/shyaway",
     "officework/feed/feedreview",
     "personal/movie.html",
     "shopperstop.json",
     "officework/analyticsproject/shoplc/Integrationraw2.md~",
     "officework/persprog/output.txt",
-    "officework/persprog/input.txt",
-    "officework/persprog/replaceplaceholders.py",
     "Screenshot 2024-09-15 at 6.45.20 PM 1.png",
     "Screenshot 2024-09-15 at 6.45.20 PM.png",
     "Screenshot 2024-09-15 at 6.37.23 PM.png",
     "Screenshot 2024-08-27 at 4.06.47 PM.png",
     "Screenshot 2024-08-19 at 12.00.31 AM.png",
     "Screenshot 2024-08-18 at 11.56.37 PM.png",
-    "Screenshot 2024-08-18 at 11.49.47 PM.png",
-    "Screenshot 2024-08-18 at 11.46.59 PM.png",
     "learning/full_stack/fullstackarch.canvas",
     "Untitled.canvas"
   ]

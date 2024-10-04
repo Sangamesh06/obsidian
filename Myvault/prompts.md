@@ -1,3 +1,7 @@
+## chatgpt prompts
+
+
+
 give in doble quotes single line for each values
 
 
@@ -24,3 +28,10 @@ Chatgpt
 Code extension
 explain the code along with proper examples and for all the builtin function used explain function and how it is used and example for each
 ```
+
+
+## codium prompts
+{I am unable to run current workflow in argo-solution I am getting error in processing step} can you explain code line by line with example and if technical explain with analogy for similar terms and also explain how does the program execution flow for diffrent files and also explain why i am getting error and what is the logic behind correction you
+
+
+

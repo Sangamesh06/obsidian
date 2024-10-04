@@ -180,3 +180,9 @@ SkuId,PartNumber,Mrp,Sp,StoreId
 10001,110000000,64,49,10660
 ```
 
+results of discussion
+
+
+![[Screenshot 2024-10-04 at 11.43.20 AM.png]]
+
+0

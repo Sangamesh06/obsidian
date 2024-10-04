@@ -1,3 +1,6 @@
+note : do not use capital letter in the name of workflow or workflow template if already present append v3 to the same
+
+
 copy a file according to enviornment and paste in cronworkflow for cron_workflow folder and change name according to sitekey and env
 
 changes need to be done in workflow template (3 places)

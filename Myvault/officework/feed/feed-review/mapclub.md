@@ -131,3 +131,29 @@ color grouping
             #     product["color_string"] = json.dumps(color_string_entries)
 
 ```
+
+
+
+
+```
+"GENERAL,  MEN>CLOTHING>Outerwears>Hoodies & Sweaters"
+
+
+General 
+Men > clothing
+Men > clothing > Outerwears
+Men > clothing > Outerwears > Hoodies & Sweaters"
+
+
+
+
+
+General > 
+
+GENERAL MEN
+GENERAL MEN>CLOTHING
+GENERAL MEN>CLOTHING>Outerwears
+```
+
+&filter=categoryPath1:"GENERAL"
+

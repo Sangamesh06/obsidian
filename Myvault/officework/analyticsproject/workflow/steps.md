@@ -1,25 +1,21 @@
 
-
+	 
 terminal commands
 
 ```
-cd /Users/unbxd/Desktop/personal/obsidian/Myvault/officework
+cd /Users/unbxd/Desktop/personal/obsidian/Myvault/officework/analyticsproject
 ```
 
 ```
-mkdir customername
+mkdir customername && cd customername
 
+python3 persprog/replaceplaceholders.py analyticsproject/workflow/basicinfo.md sitekeyv1 sitekeyv2 apikeyv1 apikeyv2 secretkeyv1 secretkeyv2 analyticsproject/customername/customernamebinfo.md
 
-cd customername
-
-nvim customernameinfo.md
-
-nvim customernamebinfo.md
 
 cd ../../
 
-
 ```
+
 in customernameinfo 
 stagesite 
 sitekey 

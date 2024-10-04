@@ -1,3 +1,9 @@
+
+
+whenever we use / stating at file path it means the path is from root folder
+whenver you want tot ccopy an entire folder from one place to other use cp -r instead of just cp
+
+
 enter cmd + I to enter agent mode
 
 

@@ -54,8 +54,8 @@ $!c@m#$&=512r
 sftp://camper@sftp.unbxdapi.com/files/romanian/stage/timestamp.json
 sftp://shopperstop@sftp.unbxdapi.com/files/dev/full/timestamp.json
 sftp://shopperstop@sftp.unbxdapi.com/files/prod/full/timestamp.json
-
-
+shoppersstop
+shopperstop
 workflow
 1) login to sftp
 ```
@@ -143,3 +143,6 @@ then it is successful
 ```
 https://feed-apac.unbxd.io/api/ss-unbxd-aapac-dev-mapclub-en56931721299790/catalog/status
 ```
+
+
+https://feed-apac.unbxd.io/api/ss-unbxd-aapac-shoppersstop-dev50901709028198/catalog/status

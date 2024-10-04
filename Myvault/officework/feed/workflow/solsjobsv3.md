@@ -53,7 +53,7 @@ create virtual enviornment
     - source venv/bin/activate 
 
 install dependencies
-     pip install -r requirements.txt
+     - pip install -r requirements.txt
 
 
 configure project interpreter
